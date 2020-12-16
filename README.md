@@ -1,7 +1,7 @@
 # Welcome all stalkers! 🤘️😈️🤘️
 
 <p align="center">
-  <img src="https://github.com/Naushikha/Naushikha/blob/master/q3_tr.gif?raw=true" alt="Quake 3: Greatest game of all time!">
+  <img src="q3_tr.gif" alt="Quake 3: Greatest game of all time!">
 </p>
 
 <!--
