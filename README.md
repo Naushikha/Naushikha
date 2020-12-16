@@ -1,7 +1,8 @@
-### Welcome all stalkers! 🤘️😈️🤘️
+# Welcome all stalkers! 🤘️😈️🤘️
 
+<p align="center">
 ![](q3_tr.gif)
-
+</p>
 <!--
 **Naushikha/Naushikha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,17 +17,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-!!! Here's a couple of things that you should know
+## Here's a couple of things that you should know
  - I love metal,
-
+<p align="center">
 ![](log.gif)
-
+</p>
  - I love coding,
- 
+<p align="center">
 ![](code.gif)
- 
+</p>
+
  - I love gaming,
- 
+<p align="center">
 ![](q3_gp.gif)
+</p>
 
 That's all for now xD
