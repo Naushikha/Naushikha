@@ -1,8 +1,12 @@
 # Welcome all stalkers! 🤘️😈️🤘️
 
-<p align="center">
-![](q3_tr.gif)
-</p>
+img{
+  display:block;
+  margin: 0 auto;
+}
+
+![Quake 3: Greatest game of all time!](q3_tr.gif)
+
 <!--
 **Naushikha/Naushikha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,17 +23,16 @@ Here are some ideas to get you started:
 -->
 ## Here's a couple of things that you should know
  - I love metal,
-<p align="center">
-![](log.gif)
-</p>
+
+![Yup, it's Lamb of God](log.gif)
+
  - I love coding,
-<p align="center">
-![](code.gif)
-</p>
+
+![This cat is basically me trying to meet deadlines](code.gif)
+
 
  - I love gaming,
-<p align="center">
-![](q3_gp.gif)
-</p>
+
+![Quake 3: Arena has to be the best multiplayer game ever.](q3_gp.gif)
 
 That's all for now xD
