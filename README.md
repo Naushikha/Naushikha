@@ -22,19 +22,19 @@ Here are some ideas to get you started:
  - I love metal,
 
 <p align="center">
-  <img src="https://github.com/Naushikha/Naushikha/blob/master/log.gif?raw=true" alt="Yup, it's Lamb of God">
+  <img src="log.gif" alt="Yup, it's Lamb of God">
 </p>
 
  - I love coding,
 
 <p align="center">
-  <img src="https://github.com/Naushikha/Naushikha/blob/master/code.gif?raw=true" alt="This cat is basically me trying to meet deadlines">
+  <img src="code.gif" alt="This cat is basically me trying to meet deadlines">
 </p>
 
  - I love gaming,
 
 <p align="center">
-  <img src="https://github.com/Naushikha/Naushikha/blob/master/q3_gp.gif?raw=true" alt="Quake 3: Arena has to be the best multiplayer game ever.">
+  <img src="q3_gp.gif" alt="Quake 3: Arena has to be the best multiplayer game ever.">
 </p>
 
 That's all for now xD
