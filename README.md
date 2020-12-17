@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="q3_tr.gif" alt="Quake 3: Greatest game of all time!" width="60%"><br>
-  <b><i>Diee, dieee stalkerss!</i></b>
+  <b><i>Diee, dieee stalkerss! (🤪️ Kidding)</i></b>
 </p>
 
 <!--
@@ -27,8 +27,10 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <figure>
-        <img src="log.gif" alt="Yup, it's Lamb of God" width="33%"> <br>
+        <center>
+        <img src="log.gif" alt="Yup, it's Lamb of God" width="70%"> <br>
         <b>Metal</b>
+        </center>
       </figure>
     </td>
     <td>
