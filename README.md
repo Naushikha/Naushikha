@@ -4,9 +4,10 @@
 <p align="center">
   <img src="q3_tr.gif" alt="Quake 3: Greatest game of all time!" width="60%"><br>
   <b><i>Diee, dieee stalkerss! <br>(🤪️ Kidding)</i></b>
-  <br>
+  <br><br>
   Well, since you have stumbled upon my profile by rare chance (or by choice 😏️), <br>
-  I shall shower you with some of my profound wisdom! 🤓️ 
+  Here's a bit about myself! 🤓️ 
+  <br>
 </p>
 
 <h1 align="center"> The Three Pillers of Life 🙏️</h1>
