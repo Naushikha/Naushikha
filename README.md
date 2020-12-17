@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <table style="width:100%">
   <tr>
     <td align="center">
-        <img src="log.gif" alt="Yup, it's Lamb of God" width="90%"> <br>
+        <img src="log.gif" alt="Yup, it's Lamb of God" width="95%"> <br>
         <b>Metal</b>
     </td>
     <td align="center">
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
         <b>Crazy coding</b>
     </td>
     <td align="center">
-        <img src="q3_gp.gif" alt="Quake 3: Arena has to be the best multiplayer game ever." width="90%"> <br>
+        <img src="q3_gp.gif" alt="Quake 3: Arena has to be the best multiplayer game ever." width="95%"> <br>
         <b>Gaming</b>
     </td>
   </tr>
