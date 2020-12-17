@@ -1,4 +1,5 @@
-# Welcome all stalkers! 🤘️😈️🤘️
+
+<h1 align="center"> Welcome stalkers of all shapes and sizes! 🤘️😈️🤘️ </h1>
 
 <p align="center">
   <img src="q3_tr.gif" alt="Quake 3: Greatest game of all time!">
@@ -18,23 +19,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Here's a couple of things that you should know
- - I love metal,
+<h2 align="center"> The Three Pillers of Life (According to Mine) </h2>
 
-<p align="center">
-  <img src="log.gif" alt="Yup, it's Lamb of God">
-</p>
-
- - I love coding,
-
-<p align="center">
-  <img src="code.gif" alt="This cat is basically me trying to meet deadlines">
-</p>
-
- - I love gaming,
-
-<p align="center">
-  <img src="q3_gp.gif" alt="Quake 3: Arena has to be the best multiplayer game ever.">
-</p>
-
-That's all for now xD
+<center>
+<table style="width:100%">
+  <tr>
+    <figure>
+      <img src="log.gif" alt="Yup, it's Lamb of God">
+      <figcaption>Metal</figcaption>
+    </figure>
+  </tr>
+  <tr>
+    <figure>
+      <img src="code.gif" alt="This cat is basically me trying to meet deadlines">
+      <figcaption>Crazy coding</figcaption>
+    </figure>
+  </tr>
+  <tr>
+    <figure>
+      <img src="q3_gp.gif" alt="Quake 3: Arena has to be the best multiplayer game ever.">
+      <figcaption>Gaming</figcaption>
+    </figure>
+  </tr>
+</table>
+</center>
