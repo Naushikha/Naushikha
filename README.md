@@ -2,7 +2,7 @@
 <h1 align="center"> Welcome stalkers of all shapes and sizes! 🤘️😈️🤘️ </h1>
 
 <p align="center">
-  <img src="q3_tr.gif" alt="Quake 3: Greatest game of all time!" width="75%">
+  <img src="q3_tr.gif" alt="Quake 3: Greatest game of all time!" width="65%"><br>
   <b><i>Diee, dieee stalkerss!</i></b>
 </p>
 
