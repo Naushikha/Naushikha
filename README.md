@@ -2,7 +2,8 @@
 <h1 align="center"> Welcome stalkers of all shapes and sizes! 🤘️😈️🤘️ </h1>
 
 <p align="center">
-  <img src="q3_tr.gif" alt="Quake 3: Greatest game of all time!">
+  <img src="q3_tr.gif" alt="Quake 3: Greatest game of all time!" width="75%">
+  <b><i>Diee, dieee stalkerss!</i></b>
 </p>
 
 <!--
@@ -27,19 +28,19 @@ Here are some ideas to get you started:
     <td>
       <figure>
         <img src="log.gif" alt="Yup, it's Lamb of God" width="33%">
-        <figcaption>Metal</figcaption>
+        <b>Metal</b>
       </figure>
     </td>
     <td>
       <figure>
         <img src="code.gif" alt="This cat is basically me trying to meet deadlines" width="33%">
-        <figcaption>Crazy coding</figcaption>
+        <b>Crazy coding</b>
       </figure>
     </td>
     <td>
       <figure>
         <img src="q3_gp.gif" alt="Quake 3: Arena has to be the best multiplayer game ever." width="33%">
-        <figcaption>Gaming</figcaption>
+        <b>Gaming</b>
       </figure>
     </td>
   </tr>
