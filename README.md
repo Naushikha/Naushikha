@@ -2,7 +2,7 @@
 <h1 align="center"> Look Who's (S)talking! 👓️</h1>
 
 <p align="center">
-  <img src="q3_tr.gif" alt="Quake 3: Greatest game of all time!" width="60%"><br>
+  <img src="q3_tr.gif" alt="Quake 3: Greatest game of all time!" width="50%"><br>
   <b><i>Diee, dieee stalkerss! <br>(🤪️ Kidding)</i></b>
   <br><br>
   Well, since you have stumbled upon my profile by rare chance (or by choice 😏️), <br>
