@@ -24,22 +24,24 @@ Here are some ideas to get you started:
 <center>
 <table style="width:100%">
   <tr>
-    <figure>
-      <img src="log.gif" alt="Yup, it's Lamb of God">
-      <figcaption>Metal</figcaption>
-    </figure>
-  </tr>
-  <tr>
-    <figure>
-      <img src="code.gif" alt="This cat is basically me trying to meet deadlines">
-      <figcaption>Crazy coding</figcaption>
-    </figure>
-  </tr>
-  <tr>
-    <figure>
-      <img src="q3_gp.gif" alt="Quake 3: Arena has to be the best multiplayer game ever.">
-      <figcaption>Gaming</figcaption>
-    </figure>
+    <td>
+      <figure>
+        <img src="log.gif" alt="Yup, it's Lamb of God">
+        <figcaption>Metal</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="code.gif" alt="This cat is basically me trying to meet deadlines">
+        <figcaption>Crazy coding</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="q3_gp.gif" alt="Quake 3: Arena has to be the best multiplayer game ever.">
+        <figcaption>Gaming</figcaption>
+      </figure>
+    </td>
   </tr>
 </table>
 </center>
