@@ -26,19 +26,19 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <figure>
-        <img src="log.gif" alt="Yup, it's Lamb of God">
+        <img src="log.gif" alt="Yup, it's Lamb of God" width="33%">
         <figcaption>Metal</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="code.gif" alt="This cat is basically me trying to meet deadlines">
+        <img src="code.gif" alt="This cat is basically me trying to meet deadlines" width="33%">
         <figcaption>Crazy coding</figcaption>
       </figure>
     </td>
     <td>
       <figure>
-        <img src="q3_gp.gif" alt="Quake 3: Arena has to be the best multiplayer game ever.">
+        <img src="q3_gp.gif" alt="Quake 3: Arena has to be the best multiplayer game ever." width="33%">
         <figcaption>Gaming</figcaption>
       </figure>
     </td>
