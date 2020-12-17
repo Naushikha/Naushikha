@@ -26,22 +26,16 @@ Here are some ideas to get you started:
 <table style="width:100%">
   <tr>
     <td align="center">
-        <center>
-        <img src="log.gif" alt="Yup, it's Lamb of God" width="70%"> <br>
+        <img src="log.gif" alt="Yup, it's Lamb of God" width="90%"> <br>
         <b>Metal</b>
-        </center>
     </td>
-    <td>
-      <figure>
-        <img src="code.gif" alt="This cat is basically me trying to meet deadlines" width="33%"> <br>
+    <td align="center">
+        <img src="code.gif" alt="This cat is basically me trying to meet deadlines" width="90%"> <br>
         <b>Crazy coding</b>
-      </figure>
     </td>
-    <td>
-      <figure>
-        <img src="q3_gp.gif" alt="Quake 3: Arena has to be the best multiplayer game ever." width="33%"> <br>
+    <td align="center">
+        <img src="q3_gp.gif" alt="Quake 3: Arena has to be the best multiplayer game ever." width="90%"> <br>
         <b>Gaming</b>
-      </figure>
     </td>
   </tr>
 </table>
