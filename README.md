@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <center>
 <table style="width:100%">
   <tr>
-    <td>
+    <td align="center">
         <center>
         <img src="log.gif" alt="Yup, it's Lamb of God" width="70%"> <br>
         <b>Metal</b>
