@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="q3_tr.gif" alt="Quake 3: Greatest game of all time!" width="60%"><br>
-  <b><i>Diee, dieee stalkerss! (🤪️ Kidding)</i></b>
+  <b><i>Diee, dieee stalkerss! <br>(🤪️ Kidding)</i></b>
 </p>
 
 <!--
@@ -20,18 +20,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center"> The Three Pillers of Life (According to Mine) </h2>
+<h1 align="center"> The Three Pillers of Life (According to Mine) </h1>
 
 <center>
 <table style="width:100%">
   <tr>
     <td>
-      <figure>
         <center>
         <img src="log.gif" alt="Yup, it's Lamb of God" width="70%"> <br>
         <b>Metal</b>
         </center>
-      </figure>
     </td>
     <td>
       <figure>
