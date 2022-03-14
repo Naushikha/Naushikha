@@ -10,7 +10,7 @@
   <br>
 </p>
 
-<h1 align="center"> My Three Pillers of Life 🙏️</h1>
+<h1 align="center"> My Three Pillars of Life 🙏️</h1>
 
 <center>
 <table style="width:100%">
